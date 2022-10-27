@@ -2,7 +2,7 @@
 // Jasmine Leek
 // 27oct2022
 // Asking Questions - Endpoint
-// This is an api that allows says hello to the user by name and describes their mood.
+// This is a web api that allows a user to input their name and mood via url, then says hello to the user by name and returns a message.
 // peer review Carlos Felipe - This program runs well and is creative. It asked what my mood was instead of what time I woke up. The code itsels is formatted correctly and everything looks good
 
 User Testing Instructions:
